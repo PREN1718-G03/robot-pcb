@@ -34,7 +34,7 @@ EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 1 4
+Sheet 4 4
 Title ""
 Date ""
 Rev ""
@@ -44,22 +44,4 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
-$Sheet
-S 1600 1400 1000 1000
-U 5515D395
-F0 "RPi_GPIO" 60
-F1 "RPi_GPIO.sch" 60
-$EndSheet
-$Sheet
-S 3050 1400 1000 1000
-U 5A0D6806
-F0 "Sheet5A0D6805" 60
-F1 "Power_Supply.sch" 60
-$EndSheet
-$Sheet
-S 4450 1400 1000 1000
-U 5A16989E
-F0 "Sheet5A16989D" 60
-F1 "Stepper_Driver.sch" 60
-$EndSheet
 $EndSCHEMATC
