@@ -1,6 +1,6 @@
-update=23.11.2017 11:43:57
+update=25.11.2017 10:53:10
 version=1
-last_client=eeschema
+last_client=kicad
 [cvpcb]
 version=1
 NetIExt=net
@@ -24,8 +24,6 @@ SolderMaskMinWidth=0
 DrawSegmentWidth=0.2
 BoardOutlineThickness=0.09999999999999999
 ModuleOutlineThickness=0.15
-[general]
-version=1
 [eeschema]
 version=1
 LibDir=C:/xesscorp/KiCad/libraries
@@ -60,3 +58,6 @@ LibName27=opto
 LibName28=atmel
 LibName29=contrib
 LibName30=valves
+LibName31=regulator
+[general]
+version=1
